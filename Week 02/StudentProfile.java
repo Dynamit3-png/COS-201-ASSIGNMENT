@@ -64,9 +64,9 @@ public class StudentProfile {
 
  public static void main(String[] args) {
   StudentProfile student = new StudentProfile(
-    " AKUSOBI AKACHUKWU DANIEL",
-    " 25/18055 ",
-    " Computer Science ",
+    " OKORIE VICTOR ",
+    " 25/18417 ",
+    " Software Engineering ",
     "Second Year",
     17);
 

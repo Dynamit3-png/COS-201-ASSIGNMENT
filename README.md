@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COS 201 - Computer Programming I
 
 # OKORIE VICTOR
@@ -49,3 +50,7 @@ java ItemCost
 ### Testing
 
 All three programs should be tested with different valid inputs to verify that their results match the expected calculations.
+=======
+# COS-201-ASSIGNMENT
+THIS COS ASSIGNMENT IS FOR OKORIE VICTOR, 25/18417, SOFTWARE ENGINEERING, 200 LEVEL
+>>>>>>> 4cfa8c31bd6d344ed6b6cca0d05ad1ae238b084a
